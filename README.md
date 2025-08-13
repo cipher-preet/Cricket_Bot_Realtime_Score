@@ -1,9 +1,6 @@
+# 📁 Project Folder Structure
 
-STUMPZY_CRICKET/
-
-# 📁 STUMPZY_CRICKET – Project Folder Structure
-
-**STUMPZY_CRICKET** is an intelligent backend system built with **FastAPI**, **LangChain**, and **MongoDB**, designed to provide real-time cricket match predictions, player statistics, and answer natural language cricket-related queries using LLM tools and custom prompts.
+**CRICKET BOT** is an intelligent backend system built with **FastAPI**, **LangChain**, and **MongoDB**, designed to provide real-time cricket match predictions, player statistics, and answer natural language cricket-related queries using LLM tools and custom prompts.
 
 
 This project is structured for scalability, modularity, and clean separation of concerns using **FastAPI**, **LangChain**, and **MongoDB**.
@@ -133,4 +130,5 @@ Stay tuned for Postman docs, CI/CD pipelines, and more in future updates.
 ```txt
 Backend Run  -------->>  uvicorn app.main:app --reload
 ```
+
 ---
